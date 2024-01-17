@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "img": "news1.png",
+    "author": "John Doe",
+    "title": "Breaking News 1",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+  },
+  {
+    "id": 2,
+    "img": "news2.png",
+    "author": "Jane Smith",
+    "title": "Latest Updates 2",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  },
+  {
+    "id": 3,
+    "img": "news3.png",
+    "author": "Mark Johnson",
+    "title": "Lorem Ipsum is simply dummy text dummy text ?",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  },
+  {
+    "id": 4,
+    "img": "news4.png",
+    "author": "Emma Brown",
+    "title": "Lorem Ipsum is simply dummy text dummy text ? 4",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  },
+  {
+    "id": 5,
+    "img": "news5.png",
+    "author": "Chris Williams",
+    "title": "Lorem Ipsum is simply dummy text dummy text ?",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  },
+  {
+    "id": 6,
+    "img": "news6.png",
+    "author": "Olivia White",
+    "title": "Lorem Ipsum is simply dummy text dummy text ?",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  },
+  {
+    "id": 7,
+    "img": "news7.png",
+    "author": "Michael Davis",
+    "title": "Lorem Ipsum is simply dummy text dummy text ?",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  },
+  {
+    "id": 8,
+    "img": "news8.png",
+    "author": "Sophia Johnson",
+    "title": "Lorem Ipsum is simply dummy text dummy text ?",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  },
+  {
+    "id": 9,
+    "img": "news9.png",
+    "author": "Anakin Walker",
+    "title": "Lorem Ipsum is simply dummy text dummy text ?",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+  }
+]
